@@ -7,7 +7,7 @@ i build things for the web. sometimes they even work.
 ## stack i actually enjoy
 - typescript (types are love, types are life)
 - react (don't talk to me about class components)
-- vscode (proudly a normie)
+- cursor and claude code
 
 ## current obsessions
 - going down rabbit holes on obscure CSS properties nobody asked about
